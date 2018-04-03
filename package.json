@@ -1,12 +1,12 @@
 {
-  "name": "redux-i18n",
+  "name": "ns-redux-i18n",
   "version": "1.5.12",
   "description": "A simple and powerful package for translate your react applications.",
   "main": "./dist/index.js",
   "typings": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/APSL/redux-i18n"
+    "url": "https://github.com/nileshsavani09/redux-i18n"
   },
   "scripts": {
     "build": "babel src --out-dir dist",
